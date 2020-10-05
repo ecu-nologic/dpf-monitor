@@ -6,3 +6,27 @@ The L9637 is a monolithic integrated circuit containing standard ISO 9141 compat
 Arduino Nano based on the ATmega328 processor provides support for sent and received messages from K-line, and displays the received data on the OLED display using the I2C protocol. 
 The received data is displayed on the SH1106 OLED display.
 To simplify the system, Arduino Nano power is supplied via the miniUSB port from the power bank. Of course, you can use an additional 7805 chip and power the entire system from the vehicle installation.
+
+Compatibile ECU and cars with this tool:
+
+Bosch EDC16C39 CF4/EOBD (engine 1.9/2.4)
+
+ALFA, 147, 1.9 JTD
+ALFA, 147, 1.9 JTD 16V
+ALFA, 156 '02, 1.9 JTD 16V
+ALFA, 159, 1.9 MJET 16V
+ALFA, 159, 1.9 MJET 8V
+ALFA, 159, 2.4 MJET 20V
+ALFA, 166, '03 2.4 JTD 20V
+ALFA, BRERA, 2.4 MJET 20V
+ALFA, GT, 1.9 JTD 16V
+FIAT, BRAVO '07, 1.9 MJET 16V
+FIAT, BRAVO '07, 1.9 MJET 8V
+FIAT, CROMA '05, 1.9 MJET 16V
+FIAT, CROMA '05, 1.9 MJET 8V
+FIAT, CROMA '05, 2.4 MJET 20V
+FIAT, DOBLO', 1.9 JTD
+FIAT, MULTIPLA, '02 1.9 JTD
+FIAT, STILO, 1.9 JTD
+FIAT, STILO, 1.9 JTD 16V
+LANCIA, THESIS, 2.4 JTD 20V
