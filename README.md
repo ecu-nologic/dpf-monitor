@@ -1,6 +1,8 @@
 # dpf-monitor
 DPF MONITOR for ALFA ROMEO - Arduino Nano ATmega328 + L9637D +  SH1106 OLED display
 
+Visit on YouTube https://www.youtube.com/watch?v=pMgqPjYh5is
+
 This is device for read data in real time from the OBD-II port through the K-line pin using ISO 9141-2.
 The device is connected with three wires: + 12V power supply, ground, K-line port.
 The device is plugged directly into the OBD-II diagnostic connector. An ELM interface is not required or needed.
